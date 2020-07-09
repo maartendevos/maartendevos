@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi I'm Maarten 👋
+- 🔭 I’m currently working on some cool stuff regarding Microsoft 365
+- 📫 You can always mail me: maarten@unpuzzled.be
+- ...
 <!--
 **maartendevos/maartendevos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
